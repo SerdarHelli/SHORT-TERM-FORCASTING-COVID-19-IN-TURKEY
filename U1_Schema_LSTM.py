@@ -15,6 +15,8 @@ from tensorflow.keras import layers
 from sklearn.preprocessing import MinMaxScaler
 import tensorflow.keras.losses
 import matplotlib.pyplot as plt
+tf.random.set_seed(1234)
+
 #data
 data=np.loadtxt("/Covid19.txt")
 difference=np.loadtxt("/Covid19.txt")
@@ -41,7 +43,7 @@ for ival in range (0,value):
     model = tf.keras.Sequential()
     model.add(layers.LSTM(32,input_shape=(30,1),return_sequences=True))    
     model.add(layers.Dense(1))
-    model.compile(optimizer='adam',loss=tf.keras.losses.MeanSquaredError(),metrics =["accuracy"])    
+    model.compile(optimizer='adam',activation='elu',loss=tf.keras.losses.MeanSquaredError(),metrics =["accuracy"])    
     model.fit(x_train,y_train,batch_size=1,epochs=2000,verbose=1)  
     #predict
     prediction=model.predict(y_train)
