@@ -5,5 +5,4 @@ In this study, the value of Long Short-Term Memory (LSTM) Networks in forecastin
 The authors  are SERDAR HELLİ ,ÇAĞKAN DEMİRCİ,ONUR ÇOBAN,and ANDAÇ HAMAMCI.
 
 
-<img src="https://github.com/SerdarHelli/SHORT-TERM-FORECASTING-COVID-19-IN-TURKEY/blob/master/Figures/modelsandu2.jpeg" alt="Results" width="250" height="250">
-<img src="https://github.com/SerdarHelli/SHORT-TERM-FORECASTING-COVID-19-IN-TURKEY/blob/master/Figures/Uschemas.jpeg" alt="Results" width="250" height="250">
+<img src="https://github.com/SerdarHelli/SHORT-TERM-FORECASTING-COVID-19-IN-TURKEY/blob/master/Figures/modelsandu2.jpeg" alt="Results" width="512" height="512">
