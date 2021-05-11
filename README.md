@@ -8,4 +8,4 @@ The authors  are SERDAR HELLİ ,ÇAĞKAN DEMİRCİ,ONUR ÇOBAN,and ANDAÇ HAMAMC
 [The paper link](https://ieeexplore.ieee.org/document/9299235)
 
 
-<img src="https://github.com/SerdarHelli/SHORT-TERM-FORECASTING-COVID-19-IN-TURKEY/blob/master/Figures/modelsandu2.jpeg" alt="Results" width="512" height="512">
+<img src="https://github.com/SerdarHelli/SHORT-TERM-FORCASTING-COVID-19-IN-TURKEY/blob/master/Figures/modelsandu2.jpeg" alt="Results" width="512" height="512">
